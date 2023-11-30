@@ -2,7 +2,7 @@
 
 The goal of this repository is to walk you through the installation of the ENS server to be able to use it with an R script.
 
-The instructions below are accompanied by illustrative slides 
+The instructions below are accompanied by [illustrative slides]([url](https://docs.google.com/presentation/d/1-60jJZi6V8T_XxZXX99kDlh_ueFST3E9cQiORR4xsr4/edit#slide=id.g29848d8ab0a_0_10)). 
 
 ## Step 1: Create a Server Account
 
